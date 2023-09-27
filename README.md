@@ -8,6 +8,9 @@ This repository is a clone of https://github.com/varadbhogayata/varadbhogayata.g
 
 # Activity 2
 
+![Screenshot](Screenshots/Activity2Homepage.png)
+![Screenshot](Screenshots/Activity2Repo.png)
+
 # Activity 3
 
 # Activity 4
