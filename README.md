@@ -4,6 +4,8 @@ This repository is a clone of https://github.com/varadbhogayata/varadbhogayata.g
 
 # Activity 1
 
+![Screenshot](Screenshots/Activity1.png)
+
 # Activity 2
 
 # Activity 3
