@@ -691,4 +691,9 @@ small {
   #intro.section {
     background-position-x: 30%;
   }
+
+  .centerMap {
+    width: 50%;
+    margin: auto;
+  }
 }
