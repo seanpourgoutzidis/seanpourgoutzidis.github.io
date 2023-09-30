@@ -18,5 +18,8 @@ This repository is a clone of https://github.com/varadbhogayata/varadbhogayata.g
 
 # Activity 4
 
+![Screenshot](Screenshots/Activity4PlacesTravelled.png)
+![Screenshot](Screenshots/Activity4Repo.png)
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
